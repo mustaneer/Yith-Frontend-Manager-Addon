@@ -1,0 +1,28 @@
+.user_roles_not_allowed,#recurring_duration{
+	width: 100% !important;
+}
+#user_recurring_amount,#recurring_data_time{
+	width: 40% !important;
+}
+
+#yith_wcfm-main-content form  .add_frontend_user{
+	
+}
+#yith_wcfm-main-content form .form-field {
+    margin-bottom: 0 !important;
+}
+#yith-wcfm-edit-user #generate_password_btn {
+    margin: 0 0 0 20px;
+}
+#yith-wcfm-edit-user .update_password_container{
+	display:none;
+}
+
+#yith-wcfm-edit-user .update_password_container #update_user_password{
+	width: 30%;
+    float: left;
+    margin-right: 20px;
+}
+#yith-wcfm-edit-user #button_frontend_user{
+	margin-top: 40px;
+}
